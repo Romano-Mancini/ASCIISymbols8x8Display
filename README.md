@@ -12,7 +12,7 @@ The motivation behind this project stemmed from the lack of satisfactory options
 
 ## Contributing
 
-Contributions to this project are highly encouraged and appreciated! If you have ideas for improvements, optimizations, or even suggestions to include Unicode characters in the future, please don't hesitate to open an issue or submit a pull request. Together, we can enhance the functionality and versatility of this byte matrix for a wider range of applications.
+Contributions to this project are highly encouraged and appreciated! If you have ideas for improvements, optimizations, or even suggestions to include Unicode characters in the future, please don't hesitate to open an issue or submit a pull request.
 
 ## License
 
